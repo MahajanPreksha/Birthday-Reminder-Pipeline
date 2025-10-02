@@ -1,0 +1,6 @@
+apache-airflow==2.6.1
+apache-airflow-providers-postgres
+apache-airflow-providers-mysql
+psycopg2-binary
+mysql-connector-python
+requests
