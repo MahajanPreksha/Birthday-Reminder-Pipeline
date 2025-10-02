@@ -12,7 +12,7 @@ This project implements an automated birthday reminder system using Apache Airfl
 - **MySQL** - Birthday data storage
 - **PostgreSQL 13** - Airflow metadata database
 - **Docker** - Containerization
-- **Python+** - Core programming language
+- **Python** - Core programming language
 - **Discord Webhooks** - Notification delivery
 
 ## Project Structure
