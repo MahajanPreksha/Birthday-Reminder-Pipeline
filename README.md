@@ -17,7 +17,7 @@ This project implements an automated birthday reminder system using Apache Airfl
 
 ## Project Structure
 ```
-Birthday-Reminder-Pipeline/
+Birthday-Reminder-Pipeline
 ├── dags/
 │   └── birthday-reminder.py    # Main Airflow DAG
 ├── logs/                       # Airflow execution logs
@@ -38,7 +38,7 @@ Birthday-Reminder-Pipeline/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/MahajanPreksha/Birthday-Reminder-Pipeline
 cd Birthday-Reminder-Pipeline
 ```
 
