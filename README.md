@@ -53,10 +53,10 @@ _AIRFLOW_WWW_USER_PASSWORD=airflow
 ### 3. Build and Start Services
 ```bash
 # Build the custom Airflow image
-docker-compose build
+docker compose build
 
 # Start all services
-docker-compose up -d
+docker compose up -d
 ```
 
 ### 4. Access Airflow Web UI
